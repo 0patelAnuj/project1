@@ -1,0 +1,2 @@
+#convert amount entered to int
+amount=int(input)
